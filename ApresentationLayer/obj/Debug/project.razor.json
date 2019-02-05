@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\carlos.filho\\Desktop\\RedeSocial\\NewsFeed\\ApresentationLayer\\ApresentationLayer.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

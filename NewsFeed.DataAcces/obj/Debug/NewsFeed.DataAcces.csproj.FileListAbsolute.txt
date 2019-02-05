@@ -1,0 +1,14 @@
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\NewsFeed.DataAcces.dll.config
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\NewsFeed.DataAcces.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\NewsFeed.DataAcces.pdb
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\NewsFeed.DomainModel.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\NewsFeed.DomainModel.pdb
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\obj\Debug\NewsFeed.DataAcces.csprojAssemblyReference.cache
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\obj\Debug\NewsFeed.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\obj\Debug\NewsFeed.DataAcces.csproj.CopyComplete
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\obj\Debug\NewsFeed.DataAcces.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DataAcces\obj\Debug\NewsFeed.DataAcces.pdb

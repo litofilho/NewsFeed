@@ -1,0 +1,6 @@
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\bin\Debug\NewsFeed.DomainServices.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\bin\Debug\NewsFeed.DomainServices.pdb
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\obj\Debug\NewsFeed.DomainService.csproj.CoreCompileInputs.cache
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\obj\Debug\NewsFeed.DomainServices.dll
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\obj\Debug\NewsFeed.DomainServices.pdb
+C:\Users\carlos.filho\Desktop\RedeSocial\NewsFeed\NewsFeed.DomainServices\obj\Debug\NewsFeed.DomainService.csprojAssemblyReference.cache
